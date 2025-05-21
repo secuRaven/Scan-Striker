@@ -4,12 +4,6 @@ A powerful, offensive security toolkit crafted entirely in **Bash scripting** �
 
 ---
 
-## 📸 Project Preview
-
-![Scan-Striker Demo](insert-your-screenshot-or-demo-gif-link-here)
-
----
-
 ## 🎯 Key Features
 
 - ⚡ Automated **Nmap-based network scanning** for target discovery and vulnerability mapping.
